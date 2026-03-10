@@ -16,8 +16,15 @@ This project focuses on analyzing sales and finance data to generate actionable 
   - Gross Margin
   - Growth Percentage
   - Profitability by product and region
-- Created Pivot Tables and charts to summarize sales and financial performance
-- Built structured reports highlighting trends and key insights
+ 
+- Developed Reports to answer few questions:
+  - What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
+  - Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
+  - Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?
+  - What are the new products that Atliq began selling in 2021? 
+  - What are the top 5 countries in terms of net sales in 2021?  
+
+- Created Pivot Tables and charts to summarize sales and financial performance and built structured reports highlighting trends and key insights
 
 ## Key Insights & Business Impact
 - Identified top-performing regions and products
